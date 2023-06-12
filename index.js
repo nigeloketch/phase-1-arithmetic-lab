@@ -1,2 +1,16 @@
+let num1=21;
+let num2=2;
 
-// Write your code here
+let multiply;
+multiply = num1*num2;
+multiply=42;
+
+let random=Math.floor(Math.random()*1000+1)
+
+let num3 =10;
+let num4 = 6;
+let mod = num3 % num4;
+
+let  max=Math.max(3,6,18,20,9);
+ 
+
